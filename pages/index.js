@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="stylesheet" href="/css/bootstrap.min.css" />
       </Head>
 
-      <main>
+      <main className="mt-5 mb-5">
         <h1>Hello world!</h1>
         <p><Link href="/about">About</Link></p>
       </main>
